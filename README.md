@@ -24,16 +24,8 @@
 6. **Good or great you just changed it. I could name a bunch of coaches that won with good QBs. Belichick only won consistently because he had the greatest player ever on his roster for 20 years.**
 7. **A former[ #Titans](https://twitter.com/hashtag/Titans?src=hashtag_click)**
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
 ** assistant is a candidate for one[ #NFL](https://twitter.com/hashtag/NFL?src=hashtag_click)**
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
 ** team currently looking for a head coach. **
 8. **Major League Baseball and the MLB Players Association plan to hold a bargaining session Thursday, sources tell ESPN. MLB is expected to make a core-economics proposal at the session, which would be the first between the sides since the league locked out the players on Dec. 2.**
 9. **"These are challenging conditions, not easy conditions to score runs in, but you are right, we are below par". Batting coach Vikram Rathour on India's first innings performance at Cape Town.**
@@ -66,11 +58,6 @@
 27. **The reports are that it’s because Yan isn’t vaccinated so that points blame to Yan. In reality it’s just the UFC moving them to April to stack that card and allow Colby/Jorge to headline March. Neither guy is in the wrong. People just hate Aljo so they assume it’s bc of him.**
 28. **Perfection - Virat Kohli's Cover Drive.**
 29. **"Can he just get something to explode out of the footmark? That's what he's trying to do, he's getting it wide outside the off stump, catch a footmark… "About there! ABOUT THERE!" - Ricky Ponting.STEVE SMITH WICKET[ #Ashes](https://twitter.com/hashtag/Ashes?src=hashtag_click)**
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
 
 30. **What a finish. Leicester's Kelechi Iheanacho gives the super eagles of Nigeria the lead against Egypt.**
 31. **On this day in 2014, Riyad Mahrez joined Leicester City for $900K while they were in the Championship. Two years later, he helped them win the Premier League.**
