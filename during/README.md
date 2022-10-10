@@ -1,0 +1,3 @@
+- `rm -rf data/anshuman_test_replies_df.pkl data/anshuman_test_df.pkl data/anshuman_test.db`
+- `python construct_database.py users/anshuman_test.csv data/anshuman_test.db`
+- `python main.py -u users/anshuman_test.csv -db data/anshuman_test.db --token_file tokens/tokens.txt -p True -c False`

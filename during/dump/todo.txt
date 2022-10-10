@@ -1,0 +1,6 @@
+- Make lowercase Sport [done]
+- Once BC updates csv, change to handles [done]
+- Change Sport to Sports [done]
+- Once BC news template are done, update response generator [done]
+- Check BC's match keyword case and ensure that logic matches tweets [done]
+- See why one account was giving key error [done]
